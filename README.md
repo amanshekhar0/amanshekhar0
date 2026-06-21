@@ -1,23 +1,18 @@
-<!-- ====================== HEADER ====================== -->
+<!-- ====================== ANIMATED HERO (custom SVG) ====================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aman%20Shekhar&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=MERN%20Stack%20%E2%80%A2%20Generative%20AI%20%E2%80%A2%20Full-Stack%20Developer&descAlignY=54&descSize=16" width="100%"/>
-
-<!-- Typing animation -->
-<a href="https://github.com/amanshekhar0">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=MERN+Stack+Developer;Generative+AI+Engineer;SWE+Intern+%40+IBM;400%2B+LeetCode+Problems+Solved;Turning+ideas+into+shipped+products" alt="Typing SVG" />
-</a>
-
-<br/>
+<img src="https://raw.githubusercontent.com/amanshekhar0/amanshekhar0/main/hero.svg" width="100%" alt="Aman Shekhar"/>
 
 <!-- Socials -->
-<a href="https://linkedin.com/in/aman-shekhar-59889027a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://amanshekhar.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="https://leetcode.com/u/aman___shekhar"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-<a href="mailto:amanshekhar000@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<img src="https://komarev.com/ghpvc/?username=amanshekhar0&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="views"/>
+<a href="https://linkedin.com/in/aman-shekhar-59889027a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://amanshekhar.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=22d3ee"/></a>
+<a href="https://leetcode.com/u/aman___shekhar"><img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116"/></a>
+<a href="mailto:amanshekhar000@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=e879f9"/></a>
+<img src="https://komarev.com/ghpvc/?username=amanshekhar0&style=for-the-badge&color=818cf8&label=VISITORS"/>
 
 </div>
+
+<img src="https://raw.githubusercontent.com/amanshekhar0/amanshekhar0/main/divider.svg" width="100%"/>
 
 <!-- ====================== ABOUT ====================== -->
 ## 🚀 About Me
@@ -25,6 +20,7 @@
 ```ts
 const aman = {
   role: "MERN + GenAI Developer",
+  currently: "SWE Intern @ IBM",
   education: "B.E. Information Science, CMRIT (Bengaluru)",
   focus: ["Scalable web apps", "LLM-powered products", "System Design"],
   leetcode: "400+ solved",
@@ -34,40 +30,44 @@ const aman = {
 
 Building impactful products at the intersection of **full-stack engineering** and **applied AI**. Obsessed with clean architecture, fast iteration, and shipping things people actually use.
 
+<img src="https://raw.githubusercontent.com/amanshekhar0/amanshekhar0/main/divider.svg" width="100%"/>
+
 <!-- ====================== TECH STACK ====================== -->
 ## 🛠️ Tech Stack
 
 <div align="center">
 
 **Languages**
-
+<br/>
 <img src="https://skillicons.dev/icons?i=js,ts,py,java,c,html,css&theme=dark" />
 
 **Frontend**
-
+<br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,threejs&theme=dark" />
 
 **Backend & Databases**
-
+<br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,firebase&theme=dark" />
 
 **AI / Cloud / Tools**
-
+<br/>
 <img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,vercel,netlify,cloudflare&theme=dark" />
 
 <br/>
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=22d3ee)
+![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=for-the-badge&logo=openai&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-0d1117?style=for-the-badge&logo=socket.io&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-0d1117?style=for-the-badge&logo=webrtc&logoColor=e879f9)
 
 </div>
+
+<img src="https://raw.githubusercontent.com/amanshekhar0/amanshekhar0/main/divider.svg" width="100%"/>
 
 <!-- ====================== FEATURED PROJECTS ====================== -->
 ## 💼 Featured Projects
 
-<!-- EDIT: replace the REPO slugs + live links below with your actual ones -->
+<!-- EDIT: replace REPO slugs + live links with your actual ones -->
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -77,7 +77,7 @@ AI-driven mock interviews with live MediaPipe proctoring, in-browser code execut
 
 `MERN` `LangChain` `MediaPipe` `Judge0`
 
-[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/amanshekhar0/ai-mock-interview-platform) [![Live](https://img.shields.io/badge/Live-58A6FF?style=flat-square&logo=vercel&logoColor=white)](#)
+[![Code](https://img.shields.io/badge/Code-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/amanshekhar0/ai-mock-interview-platform) [![Live](https://img.shields.io/badge/Live-818cf8?style=flat-square&logo=vercel&logoColor=white)](#)
 
 </td>
 <td width="50%" valign="top">
@@ -87,7 +87,7 @@ Real-time hospital intelligence + ambulance dispatch with 3 role-based dashboard
 
 `Socket.io` `WebRTC` `Grok API` `Leaflet`
 
-[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/amanshekhar0/MediEquip-2.0) [![Live]([https://img.shields.io/badge/Live-58A6FF?style=flat-square&logo=vercel&logoColor=white](https://ai-mock-interview-woad-ten.vercel.app/))](#)
+[![Code](https://img.shields.io/badge/Code-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/amanshekhar0/MediEquip-2.0) [![Live](https://img.shields.io/badge/Live-818cf8?style=flat-square&logo=vercel&logoColor=white)](#)
 
 </td>
 </tr>
@@ -99,7 +99,7 @@ A typing-speed + accuracy evaluator for DSA practice with Redis-backed sessions 
 
 `Redis` `RBAC` `Node.js` `React`
 
-[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/amanshekhar0/dsa-typing-evaluator) [![Live]([https://img.shields.io/badge/Live-58A6FF?style=flat-square&logo=vercel&logoColor=white](https://dsatyping.vercel.app/))](#)
+[![Code](https://img.shields.io/badge/Code-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/amanshekhar0/dsa-typing-evaluator) [![Live](https://img.shields.io/badge/Live-818cf8?style=flat-square&logo=vercel&logoColor=white)](#)
 
 </td>
 <td width="50%" valign="top">
@@ -109,55 +109,57 @@ Chrome extension that summarizes LinkedIn feed content on the fly using the Open
 
 `React 18` `TypeScript` `OpenAI API`
 
-[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/amanshekhar0/linkedin-knowledge-hub) [![Live](https://img.shields.io/badge/Live-58A6FF?style=flat-square&logo=vercel&logoColor=white)](#)
+[![Code](https://img.shields.io/badge/Code-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/amanshekhar0/linkedin-knowledge-hub) [![Live](https://img.shields.io/badge/Live-818cf8?style=flat-square&logo=vercel&logoColor=white)](#)
 
 </td>
 </tr>
 </table>
 
-<sub>More: **CMRIT Placement Platform** · **NetaAI** (UP election intelligence) · **CyberShield IDS** dashboard → [see all repos »](https://github.com/amanshekhar0?tab=repositories)</sub>
+<sub>More: **CMRIT Placement Platform** · **NetaAI** (UP election intelligence) · **CyberShield IDS** dashboard → <a href="https://github.com/amanshekhar0?tab=repositories">see all repos »</a></sub>
 
-<!-- ====================== STATS ====================== -->
+<img src="https://raw.githubusercontent.com/amanshekhar0/amanshekhar0/main/divider.svg" width="100%"/>
+
+<!-- ====================== STATS (neon-matched) ====================== -->
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=amanshekhar0&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanshekhar0&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=amanshekhar0&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9&icon_color=818cf8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanshekhar0&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=amanshekhar0&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=amanshekhar0&hide_border=true&background=0d1117&border=0d1117&stroke=818cf8&ring=e879f9&fire=e879f9&currStreakLabel=22d3ee&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
 
 <br/><br/>
 
-<!-- LeetCode card -->
 <img src="https://leetcard.jacoblin.cool/aman___shekhar?theme=dark&font=Fira%20Code&ext=heatmap" />
 
 </div>
 
-<!-- Animated contribution graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amanshekhar0&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amanshekhar0&hide_border=true&bg_color=0d1117&color=22d3ee&line=818cf8&point=e879f9&area=true&area_color=818cf8&title_color=22d3ee&custom_title=Contribution%20Graph" width="100%"/>
+
+<img src="https://raw.githubusercontent.com/amanshekhar0/amanshekhar0/main/divider.svg" width="100%"/>
 
 <!-- ====================== SNAKE ====================== -->
 <div align="center">
 
-<!-- Needs the snake GitHub Action (snake.yml) — see setup notes -->
-<img src="https://raw.githubusercontent.com/amanshekhar0/amanshekhar0/output/snake.svg" alt="snake animation" />
+<!-- Needs the snake.yml GitHub Action -->
+<img src="https://raw.githubusercontent.com/amanshekhar0/amanshekhar0/output/snake.svg" alt="snake animation" width="100%"/>
 
 </div>
 
-<!-- ====================== FOOTER ====================== -->
-## 🤝 Let's Connect
+<img src="https://raw.githubusercontent.com/amanshekhar0/amanshekhar0/main/divider.svg" width="100%"/>
 
+<!-- ====================== FOOTER ====================== -->
 <div align="center">
+
+### 🤝 Let's Connect
 
 Open to **SDE / GenAI internships** and collaboration on ambitious products.
 
 <a href="https://linkedin.com/in/aman-shekhar-59889027a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:amanshekhar000@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://amanshekhar.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<a href="mailto:amanshekhar000@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=e879f9"/></a>
+<a href="https://amanshekhar.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=22d3ee"/></a>
 
 </div>
