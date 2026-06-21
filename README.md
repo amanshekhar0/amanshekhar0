@@ -20,7 +20,6 @@
 ```ts
 const aman = {
   role: "MERN + GenAI Developer",
-  currently: "SWE Intern @ IBM",
   education: "B.E. Information Science, CMRIT (Bengaluru)",
   focus: ["Scalable web apps", "LLM-powered products", "System Design"],
   leetcode: "400+ solved",
