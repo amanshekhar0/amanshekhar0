@@ -25,7 +25,6 @@
 ```ts
 const aman = {
   role: "MERN + GenAI Developer",
-  currently: "SWE Intern @ IBM",
   education: "B.E. Information Science, CMRIT (Bengaluru)",
   focus: ["Scalable web apps", "LLM-powered products", "System Design"],
   leetcode: "400+ solved",
@@ -88,7 +87,7 @@ Real-time hospital intelligence + ambulance dispatch with 3 role-based dashboard
 
 `Socket.io` `WebRTC` `Grok API` `Leaflet`
 
-[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/amanshekhar0/MediEquip-2.0) [![Live](https://img.shields.io/badge/Live-58A6FF?style=flat-square&logo=vercel&logoColor=white)](#)
+[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/amanshekhar0/MediEquip-2.0) [![Live]([https://img.shields.io/badge/Live-58A6FF?style=flat-square&logo=vercel&logoColor=white](https://ai-mock-interview-woad-ten.vercel.app/))](#)
 
 </td>
 </tr>
@@ -100,7 +99,7 @@ A typing-speed + accuracy evaluator for DSA practice with Redis-backed sessions 
 
 `Redis` `RBAC` `Node.js` `React`
 
-[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/amanshekhar0/dsa-typing-evaluator) [![Live](https://img.shields.io/badge/Live-58A6FF?style=flat-square&logo=vercel&logoColor=white)](#)
+[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/amanshekhar0/dsa-typing-evaluator) [![Live]([https://img.shields.io/badge/Live-58A6FF?style=flat-square&logo=vercel&logoColor=white](https://dsatyping.vercel.app/))](#)
 
 </td>
 <td width="50%" valign="top">
